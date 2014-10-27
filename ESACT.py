@@ -1,4 +1,7 @@
 # Demo 1
+# Author : Ahmed Adel Elemam 
+# Email : ahmedelemamn@gmail.com
+# license : GPL v2
 print   "          ###############################################################"
 print   "          # Network Team Edge Switch Script by Ahmed ElEmam, ISFP Egypt #"
 print   "          ###############################################################"
